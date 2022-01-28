@@ -1,0 +1,1 @@
+This is a readme for ths 3 band compressor project.
